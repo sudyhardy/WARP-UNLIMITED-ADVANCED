@@ -7,19 +7,19 @@ INTERACTIVE_MODE = False  # or True
 # Required if ENV == False
 Vars = [
   # WARP_ID
-  "917884b9-2380-40f3-b40a-954ce5a3e4ae",
+  "",
   # SEND_LOG, Want to receive log on Telegram?
   # 1 = Yes or 0 = No
-  "1",
+  "",
   # CHAT_ID, required if SEND_LOG is 1
   # Can be Channel/Group username or ID
-  "@warpnotif",
+  "",
   # BOT_TOKEN, required if SEND_LOG is 1
   # Get from https://t.me/BotFather
-  "6241439388:AAHLaQnR_CiOkxLFoOnbS-vPsQL6V9NwNv8",
+  "",
   # HIDE_ID, Do you want to hide WARP_ID from log msg?
   # 1 = Yes or 0 = No
-  "0",
+  "",
   # DON'T EDIT THIS
   INTERACTIVE_MODE
 ]
