@@ -13,7 +13,7 @@ Vars = [
   "1",
   # CHAT_ID, required if SEND_LOG is 1
   # Can be Channel/Group username or ID
-  "@noresponse_444",
+  "@warpnotif",
   # BOT_TOKEN, required if SEND_LOG is 1
   # Get from https://t.me/BotFather
   "6241439388:AAHLaQnR_CiOkxLFoOnbS-vPsQL6V9NwNv8",
